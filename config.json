@@ -1,0 +1,27 @@
+
+{
+    "name": "tomato",
+    "cases":
+    [
+        {
+            "case_id": 0,
+            "case_name": "25min",
+            "work_min": 25,
+            "break_min": 3
+        },
+        {
+            "case_id": 1,
+            "case_name": "40min",
+            "work_min": 40,
+            "break_min": 5
+        } 
+    ],
+    "log_format":
+    [
+        "start_time",
+        "duration",
+        "full_duration",
+        "isfinished",
+        "score"
+    ]
+}
