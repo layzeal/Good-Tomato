@@ -1,27 +1,39 @@
 
-# Good-Tomato
+# :tomato:Good-Tomato
 
 ---
 
 A tomato clock applicaion based on [Pomodoro_Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique) on Windows 10.
+Version 0.1.0 for windows is avaliable now.
 
 ## Features
 
-## Requirements
+## Start
+
+### Requirements
 
 - [wxpython](https://wxpython.org/): GUI module
 
-- [win10toast](https://github.com/jithurjacob/Windows-10-Toast-Notifications): windows 10 toaster notifier
+- [win10toast](https://github.com/jithurjacob/Windows-10-Toast-Notifications): windows 10 toast notifier
 
     pip install wxpython win10toast
 
-## Start
+### Start Tomato
+
+    git clone https://github.com/layzeal/Good-Tomato.git
+    cd good-tomato
+    python tomato
 
 ## Todo
 
 - [ ] introduciton
-- [ ] multiple cases to choose and custom
+- [ ] comments
+- [x] multiple cases to choose and custom
+- [x] work and break
 - [ ] logs and analysis
-- [ ] release
+- [x] release
+- [ ] help doc
 
 ## License
+
+[MIT License](/LICENSE)

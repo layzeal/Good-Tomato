@@ -1,2 +1,10 @@
 # vscode config dir
 .vscode/
+
+# python enviorment
+.env/
+
+# distribution files
+dist/
+build/
+spec/
